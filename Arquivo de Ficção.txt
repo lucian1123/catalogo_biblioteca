@@ -3,3 +3,5 @@ Orgulho e Preconceito,Jane Austen,Romance
 1984,George Orwell,Ficçao científica
 Dom Casmurro,Machado de Assis,Romance 
 Neuromancer,William Gibson,Cyberpunk
+O pequeno Principe,Antoine de Sait-exupéry,fabula
+Cem anos de Solidão,Gabriel García Márques,Realismo Mágico 
