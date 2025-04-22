@@ -4,4 +4,5 @@ Orgulho e Preconceito,Jane Austen,Romance
 Dom Casmurro,Machado de Assis,Romance 
 Neuromancer,William Gibson,Cyberpunk
 O pequeno Principe,Antoine de Sait-exupéry,fabula
+Harry Potter e a pedra Filosofal,J.K. Rowling,Fantasia
 Cem anos de Solidão,Gabriel García Márques,Realismo Mágico 
